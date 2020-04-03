@@ -22,6 +22,7 @@ Features
 		All uppercase or lowercase  
 		Can out put Unicode ü or v or u:  
 		With tone numbers (lü3) or tone marks (lǚ) or without tone (lü)  
+* Support .NET Standard 2.0
 
 Acknowledgments 
 ---------------------------------------------

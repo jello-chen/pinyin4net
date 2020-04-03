@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/.vs/Pinyin4net
+/src/Pinyin4netTest/bin
+/src/Pinyin4netTest/obj
+/src/Pinyin4net/bin
+/src/Pinyin4net/obj
